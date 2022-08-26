@@ -34,8 +34,8 @@ Para ejecutar este flow, es necesario lo siguiente
 
 Como se muestra en la imagen agregada.
  
+![](https://github.com/Jonas1432/-flow2-NodeRed-/blob/main/Flow-2.png)
 
- 
 # Créditos
 
 * Desarrollado por Jonathan Araujo
